@@ -1,2 +1,2 @@
-# stonks-web
- stonks website
+# stonks-website
+Stonks websitemiz

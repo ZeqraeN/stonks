@@ -1,2 +1,1 @@
-# stonks-website
-Stonks websitemiz
+https://stonkss.glitch.me websitesinin kaynak kodları
